@@ -1,0 +1,5 @@
+API_URL = "https://restful-booker.herokuapp.com"
+USERNAME = "standard_user"
+PASSWORD = "secret_sauce"
+API_USER = "admin"
+API_PASS = "password123"
